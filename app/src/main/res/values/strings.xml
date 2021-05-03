@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Admin19</string>
+    <string name="name">Name*</string>
+    <string name="phone_number">Phone Number*</string>
+    <string name="email">Email</string>
+    <string name="city">City</string>
+    <string name="proceed">Proceed</string>
+    <string name="password">Password*</string>
+    <string name="dashblank">-</string>
+
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="fcm_message">FCM Message</string>
+
+</resources>
